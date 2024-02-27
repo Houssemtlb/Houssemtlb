@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there ! I'm Houssem :
 🔭 I'm currently a 4th year Computer science student specialized in software engineering.<br>👀 I'm intrested in mobile and backend development and systems architecture.<br>🌱 I’m currently learning artificial intelligence and data science basics.<br>📫 reach me via : kh_talbi@esi.dz
 
 
